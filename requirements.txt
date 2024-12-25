@@ -1,0 +1,8 @@
+matplotlib
+numpy
+torch
+torchvision
+Pillow
+tqdm
+GPUtil
+IPython
